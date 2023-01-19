@@ -6,7 +6,6 @@ Recursively download and save ZFile things
 ```
 Python 3.5+
 requests
-bs4
 ```
 
 ## Usage
